@@ -1,0 +1,25 @@
+{
+  "name": "wecode",
+  "version": "1.0.0",
+  "description": "git remote add 주소 git push origin master git remote -v",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/1211lys/wecode.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/1211lys/wecode/issues"
+  },
+  "homepage": "https://github.com/1211lys/wecode#readme",
+  "devDependencies": {
+    "vuepress": "^1.9.7"
+  }
+}
